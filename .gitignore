@@ -1,8 +1,5 @@
-# Ignore all files
 *
 
-# But track .java files
 !*.java
 
-# Track .gitignore itself
 !.gitignore
